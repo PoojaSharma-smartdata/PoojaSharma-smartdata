@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** with an **MCA** background, focused on building intelligent applications, scalable backends, and AI-powered solutions.
+I'm a **Software Developer** focused on building intelligent applications, scalable backends, and AI-powered solutions.
 
 I work across **Python, FastAPI, AI/ML, Generative AI, and full-stack (MERN)** development — turning business needs into reliable technical solutions.
 
@@ -59,7 +59,6 @@ I work across **Python, FastAPI, AI/ML, Generative AI, and full-stack (MERN)** d
 ### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### AI / Machine Learning / Generative AI
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -67,7 +66,6 @@ I work across **Python, FastAPI, AI/ML, Generative AI, and full-stack (MERN)** d
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **AI/ML focus areas:** Classical ML · NLP · LLMs · RAG · Agentic AI · OCR · Computer Vision · Speech (Whisper / ElevenLabs)
 
@@ -76,7 +74,6 @@ I work across **Python, FastAPI, AI/ML, Generative AI, and full-stack (MERN)** d
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud & Tools
 <p>
@@ -110,44 +107,9 @@ I work across **Python, FastAPI, AI/ML, Generative AI, and full-stack (MERN)** d
 ### Software Developer — SmartData Enterprises
 
 - Collaborate with cross-functional teams on full-stack and AI-enabled products
-- Design reusable components and application architecture (including mobile offline/online flows with SQLite & AsyncStorage)
 - Improve performance, fix bugs, and strengthen application stability
 - Participate in code reviews, sprint planning, and QA coordination via Jira
 - Join client discussions to gather requirements and align delivery with business goals
-
----
-
-## 🌟 Featured Projects
-
-### 🧘 Jogi-Flow — AI Yoga Platform
-**Tech:** Python, FastAPI, AWS Bedrock AgentCore, ECS Fargate, Aurora DSQL, S3, SES, Amplify, ElevenLabs, Firebase  
-Personalized AI yoga coaching with live voice guidance, session generation from knowledge templates, minute-based practice tracking, and an admin panel for operations.
-
-### 🛒 Ecommerce-POS
-**Tech:** React, JavaScript, Node.js, MongoDB  
-Multi-role ecommerce + POS platform (Admin / Vendor / User) with customizable vendor storefronts, product management, and order processing.
-
-### 🏥 Lab Integration
-**Tech:** React, Node.js, PostgreSQL, HL7  
-Healthcare lab integration generating ORM orders and processing ORU results for automated, standards-based diagnostic data exchange.
-
-### ⚽ AI Betting Prediction
-**Tech:** AI/ML, React, PostgreSQL, REST APIs  
-Data-driven football match prediction app analyzing team stats and historical data to support informed betting insights and ROI tracking.
-
-### 🤖 AI / FastAPI Portfolio APIs
-Selected open-source demos on GitHub:
-
-| Project | Focus |
-|---|---|
-| [enterprise-ai-knowledge-assistant](https://github.com/PoojaSharma-smartdata/enterprise-ai-knowledge-assistant) | RAG + pgvector + LangGraph |
-| [Scalable-RAG-Ingestion-Pipeline](https://github.com/PoojaSharma-smartdata/Scalable-RAG-Ingestion-Pipeline) | Async document ingest for RAG |
-| [it-helpdesk-agent](https://github.com/PoojaSharma-smartdata/it-helpdesk-agent) | LangGraph IT support agent |
-| [ai-seo-blog-agent](https://github.com/PoojaSharma-smartdata/ai-seo-blog-agent) | SEO content agent (LangGraph) |
-| [customer-review-intelligence](https://github.com/PoojaSharma-smartdata/customer-review-intelligence) | Review NLP + triage dashboard |
-| [vision-object-detection](https://github.com/PoojaSharma-smartdata/vision-object-detection) | YOLOv8 FastAPI detection API |
-| [ocr-invoice-reader](https://github.com/PoojaSharma-smartdata/ocr-invoice-reader) | Invoice OCR field extraction |
-| [fastapi_sentiment](https://github.com/PoojaSharma-smartdata/fastapi_sentiment) | Hugging Face sentiment service |
 
 ---
 
